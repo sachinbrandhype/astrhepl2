@@ -1,0 +1,16 @@
+/var/www/html/antmedia/glibc-2.29/build/math/w_expf.os: \
+ ../sysdeps/ieee754/flt-32/w_expf.c ../include/stdc-predef.h \
+ /var/www/html/antmedia/glibc-2.29/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /var/www/html/antmedia/glibc-2.29/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/var/www/html/antmedia/glibc-2.29/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/var/www/html/antmedia/glibc-2.29/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

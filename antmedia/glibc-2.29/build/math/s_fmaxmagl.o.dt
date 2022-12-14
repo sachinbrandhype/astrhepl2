@@ -1,0 +1,119 @@
+/var/www/html/antmedia/glibc-2.29/build/math/s_fmaxmagl.o: \
+ /var/www/html/antmedia/glibc-2.29/build/math/s_fmaxmagl.c \
+ ../include/stdc-predef.h \
+ /var/www/html/antmedia/glibc-2.29/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /var/www/html/antmedia/glibc-2.29/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h \
+ ../sysdeps/generic/math-type-macros-ldouble.h \
+ ../sysdeps/generic/libm-alias-ldouble.h \
+ ../sysdeps/ieee754/ldbl-128/bits/floatn.h ../include/features.h \
+ ../include/sys/cdefs.h ../misc/sys/cdefs.h \
+ ../sysdeps/aarch64/bits/wordsize.h \
+ ../sysdeps/ieee754/ldbl-128/bits/long-double.h ../include/gnu/stubs.h \
+ ../bits/floatn-common.h \
+ ../sysdeps/ieee754/ldbl-128/math-nan-payload-ldouble.h \
+ ../sysdeps/generic/math-type-macros.h ../include/float.h \
+ ../bits/libc-header-start.h \
+ /usr/lib/gcc/aarch64-linux-gnu/7/include/float.h \
+ ../math/math-svid-compat.h ../include/shlib-compat.h \
+ /var/www/html/antmedia/glibc-2.29/build/abi-versions.h \
+ s_fmaxmag_template.c ../include/math.h ../math/math.h \
+ ../include/bits/types.h ../posix/bits/types.h ../bits/timesize.h \
+ ../sysdeps/unix/sysv/linux/generic/bits/typesizes.h ../bits/time64.h \
+ ../bits/math-vector.h ../bits/libm-simd-decl-stubs.h \
+ ../bits/flt-eval-method.h ../bits/fp-logb.h \
+ ../sysdeps/aarch64/bits/fp-fast.h \
+ ../include/bits/mathcalls-helper-functions.h \
+ ../math/bits/mathcalls-helper-functions.h ../include/bits/mathcalls.h \
+ ../math/bits/mathcalls.h ../include/bits/mathcalls-narrow.h \
+ ../math/bits/mathcalls-narrow.h ../bits/iscanonical.h \
+ ../bits/mathinline.h
+
+../include/stdc-predef.h:
+
+/var/www/html/antmedia/glibc-2.29/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/var/www/html/antmedia/glibc-2.29/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../sysdeps/generic/math-type-macros-ldouble.h:
+
+../sysdeps/generic/libm-alias-ldouble.h:
+
+../sysdeps/ieee754/ldbl-128/bits/floatn.h:
+
+../include/features.h:
+
+../include/sys/cdefs.h:
+
+../misc/sys/cdefs.h:
+
+../sysdeps/aarch64/bits/wordsize.h:
+
+../sysdeps/ieee754/ldbl-128/bits/long-double.h:
+
+../include/gnu/stubs.h:
+
+../bits/floatn-common.h:
+
+../sysdeps/ieee754/ldbl-128/math-nan-payload-ldouble.h:
+
+../sysdeps/generic/math-type-macros.h:
+
+../include/float.h:
+
+../bits/libc-header-start.h:
+
+/usr/lib/gcc/aarch64-linux-gnu/7/include/float.h:
+
+../math/math-svid-compat.h:
+
+../include/shlib-compat.h:
+
+/var/www/html/antmedia/glibc-2.29/build/abi-versions.h:
+
+s_fmaxmag_template.c:
+
+../include/math.h:
+
+../math/math.h:
+
+../include/bits/types.h:
+
+../posix/bits/types.h:
+
+../bits/timesize.h:
+
+../sysdeps/unix/sysv/linux/generic/bits/typesizes.h:
+
+../bits/time64.h:
+
+../bits/math-vector.h:
+
+../bits/libm-simd-decl-stubs.h:
+
+../bits/flt-eval-method.h:
+
+../bits/fp-logb.h:
+
+../sysdeps/aarch64/bits/fp-fast.h:
+
+../include/bits/mathcalls-helper-functions.h:
+
+../math/bits/mathcalls-helper-functions.h:
+
+../include/bits/mathcalls.h:
+
+../math/bits/mathcalls.h:
+
+../include/bits/mathcalls-narrow.h:
+
+../math/bits/mathcalls-narrow.h:
+
+../bits/iscanonical.h:
+
+../bits/mathinline.h:

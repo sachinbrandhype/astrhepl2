@@ -1,0 +1,8 @@
+#define DL_OFFSET_RG_D0 64
+#define DL_OFFSET_RG_LR 136
+#define DL_OFFSET_RG_SP 128
+#define DL_OFFSET_RG_X0 0
+#define DL_OFFSET_RV_D0 16
+#define DL_OFFSET_RV_X0 0
+#define DL_SIZEOF_RG 144
+#define DL_SIZEOF_RV 48

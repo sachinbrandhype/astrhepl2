@@ -1,0 +1,24 @@
+/var/www/html/antmedia/glibc-2.29/build/math/s_matherr.o: \
+ ../sysdeps/ieee754/s_matherr.c ../include/stdc-predef.h \
+ /var/www/html/antmedia/glibc-2.29/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /var/www/html/antmedia/glibc-2.29/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h math-svid-compat.h \
+ ../include/shlib-compat.h \
+ /var/www/html/antmedia/glibc-2.29/build/abi-versions.h
+
+../include/stdc-predef.h:
+
+/var/www/html/antmedia/glibc-2.29/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/var/www/html/antmedia/glibc-2.29/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+math-svid-compat.h:
+
+../include/shlib-compat.h:
+
+/var/www/html/antmedia/glibc-2.29/build/abi-versions.h:

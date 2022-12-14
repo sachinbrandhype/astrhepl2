@@ -1,0 +1,50 @@
+/var/www/html/antmedia/glibc-2.29/build/math/fesetexcept.o: \
+ ../sysdeps/aarch64/fpu/fesetexcept.c ../include/stdc-predef.h \
+ /var/www/html/antmedia/glibc-2.29/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /var/www/html/antmedia/glibc-2.29/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../include/fenv.h ../math/fenv.h \
+ ../bits/libc-header-start.h ../include/features.h ../include/sys/cdefs.h \
+ ../misc/sys/cdefs.h ../sysdeps/aarch64/bits/wordsize.h \
+ ../sysdeps/ieee754/ldbl-128/bits/long-double.h ../include/gnu/stubs.h \
+ ../sysdeps/aarch64/bits/fenv.h ../bits/fenvinline.h \
+ /usr/lib/gcc/aarch64-linux-gnu/7/include/stdbool.h \
+ ../include/fpu_control.h ../sysdeps/aarch64/fpu/fpu_control.h
+
+../include/stdc-predef.h:
+
+/var/www/html/antmedia/glibc-2.29/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/var/www/html/antmedia/glibc-2.29/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../include/fenv.h:
+
+../math/fenv.h:
+
+../bits/libc-header-start.h:
+
+../include/features.h:
+
+../include/sys/cdefs.h:
+
+../misc/sys/cdefs.h:
+
+../sysdeps/aarch64/bits/wordsize.h:
+
+../sysdeps/ieee754/ldbl-128/bits/long-double.h:
+
+../include/gnu/stubs.h:
+
+../sysdeps/aarch64/bits/fenv.h:
+
+../bits/fenvinline.h:
+
+/usr/lib/gcc/aarch64-linux-gnu/7/include/stdbool.h:
+
+../include/fpu_control.h:
+
+../sysdeps/aarch64/fpu/fpu_control.h:
